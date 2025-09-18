@@ -6,6 +6,10 @@ I just want something new to do with.
 
 # Current ongoing projects.
 
+## xeanutsp.github.io
+
+that's just my old poster posted online as a whole page. Even you can just visit it... [here](xeanutsp.github.io)
+
 ## Saurus
 
 an future of profile website with spinning dinosaurs (missing dinosaur due to cage broken)
