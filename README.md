@@ -28,5 +28,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'll drop by when I have time. ❤️
+I'll drop by when I have time. ❤️<br>
 -- Patipan Chaipanha
