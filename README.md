@@ -6,7 +6,7 @@ I just want something new to do with.
 
 # Current ongoing projects.
 
-## xeanutsp.github.io
+## [xeanutsp.github.io](https://xeanutsp.github.io)
 
 that's just my old poster posted online as a whole page. Even you can just visit it... [here](https://xeanutsp.github.io)
 
